@@ -1,3 +1,7 @@
+#python code to generate housie tickets
+#each ticket has 3 rows and 9 columns
+#each row has only 5 random numbers and columns are filled randomly
+#column 1 has numbers ranging from 1-10 , column 2 has 2-20 and so on
 import random
 t=set()
 def convert(ticket):
